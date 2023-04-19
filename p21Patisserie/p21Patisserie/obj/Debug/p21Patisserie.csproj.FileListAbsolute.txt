@@ -1,0 +1,11 @@
+C:\Users\mberk\source\repos\p21Patisserie\p21Patisserie\bin\Debug\p21Patisserie.exe.config
+C:\Users\mberk\source\repos\p21Patisserie\p21Patisserie\bin\Debug\p21Patisserie.exe
+C:\Users\mberk\source\repos\p21Patisserie\p21Patisserie\bin\Debug\p21Patisserie.pdb
+C:\Users\mberk\source\repos\p21Patisserie\p21Patisserie\obj\Debug\p21Patisserie.csproj.AssemblyReference.cache
+C:\Users\mberk\source\repos\p21Patisserie\p21Patisserie\obj\Debug\p21Patisserie.csproj.SuggestedBindingRedirects.cache
+C:\Users\mberk\source\repos\p21Patisserie\p21Patisserie\obj\Debug\p21Patisserie.Form1.resources
+C:\Users\mberk\source\repos\p21Patisserie\p21Patisserie\obj\Debug\p21Patisserie.Properties.Resources.resources
+C:\Users\mberk\source\repos\p21Patisserie\p21Patisserie\obj\Debug\p21Patisserie.csproj.GenerateResource.cache
+C:\Users\mberk\source\repos\p21Patisserie\p21Patisserie\obj\Debug\p21Patisserie.csproj.CoreCompileInputs.cache
+C:\Users\mberk\source\repos\p21Patisserie\p21Patisserie\obj\Debug\p21Patisserie.exe
+C:\Users\mberk\source\repos\p21Patisserie\p21Patisserie\obj\Debug\p21Patisserie.pdb
